@@ -1,0 +1,693 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\Scripts\\Controllers\\Controllers.js",
+      "PackagePath": "staticwebassets\\Scripts\\Controllers\\Controllers.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\Scripts\\Services\\kullaniciSrvc.js",
+      "PackagePath": "staticwebassets\\Scripts\\Services\\kullaniciSrvc.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\Scripts\\rehberAppModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\rehberAppModule.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\Web.config",
+      "PackagePath": "staticwebassets\\Web.config"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Content\\angular-material.min.css",
+      "PackagePath": "staticwebassets\\admin\\Content\\angular-material.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\App\\Controllers\\Controllers.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\App\\Controllers\\Controllers.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\App\\DigerIslemler\\digerIslemler.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\App\\DigerIslemler\\digerIslemler.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\App\\Services\\kullaniciSrvc.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\App\\Services\\kullaniciSrvc.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\App\\Services\\srvc.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\App\\Services\\srvc.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\App\\registrationModule.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\App\\registrationModule.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-animate.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-animate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-animate.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-animate.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-aria.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-aria.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-aria.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-aria.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-filter.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-filter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-loader.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-loader.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-loader.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-loader.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-local-storage.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-local-storage.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-local-storage.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-local-storage.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-local-storage.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-local-storage.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-material.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-material.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-message-format.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-message-format.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-message-format.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-message-format.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-messages.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-messages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-messages.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-messages.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-resource.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-resource.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-resource.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-resource.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-sanitize.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-sanitize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-sanitize.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-sanitize.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-toastr.tpls.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-toastr.tpls.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-touch.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-touch.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-touch.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-touch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-ui-router.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-ui-router.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-ui-router.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-ui-router.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-ui-tree.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-ui-tree.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular-ui-tree.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular-ui-tree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\angular.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\angular.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\backtotop\\angular-backtop.css",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\backtotop\\angular-backtop.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\backtotop\\angular-backtop.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\backtotop\\angular-backtop.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\backtotop\\angular-backtop.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\backtotop\\angular-backtop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\dirPagination.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\dirPagination.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\jquery-2.1.1.min.map",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\jquery-2.1.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\loading-bar.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\loading-bar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\masonry.pkgd.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\masonry.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\matches-selector.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\matches-selector.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\mfb\\mfb.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\mfb\\mfb.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\mfb\\mfb.min.css",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\mfb\\mfb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\mfb\\mfb.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\mfb\\mfb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\ng-ckeditor.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\ng-ckeditor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\ng-infinite-scroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\ng-infinite-scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\ng-scrollable.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\ng-scrollable.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\outlayer.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\outlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\percent-circle-directive.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\percent-circle-directive.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\sortable.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\sortable.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\ui-grid.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\ui-grid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\utils.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\v-accordion.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\v-accordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\version.json",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\version.json"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\video.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\vjs-video.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\vjs-video.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Scripts\\Scripts\\xeditable.min.js",
+      "PackagePath": "staticwebassets\\admin\\Scripts\\Scripts\\xeditable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\Web.config",
+      "PackagePath": "staticwebassets\\admin\\Web.config"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\css\\page-auth.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\templates\\anasayfa\\anasayfa.html",
+      "PackagePath": "staticwebassets\\admin\\templates\\anasayfa\\anasayfa.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\templates\\dialog\\rehberekisiekledialog.html",
+      "PackagePath": "staticwebassets\\admin\\templates\\dialog\\rehberekisiekledialog.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\templates\\dirPagination.tpl.html",
+      "PackagePath": "staticwebassets\\admin\\templates\\dirPagination.tpl.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\templates\\giris\\giris.html",
+      "PackagePath": "staticwebassets\\admin\\templates\\giris\\giris.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\admin\\templates\\giris\\sol.html",
+      "PackagePath": "staticwebassets\\admin\\templates\\giris\\sol.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\css\\grayscale.min.css",
+      "PackagePath": "staticwebassets\\css\\grayscale.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\js\\backtotop\\angular-backtop.css",
+      "PackagePath": "staticwebassets\\js\\backtotop\\angular-backtop.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\js\\backtotop\\angular-backtop.js",
+      "PackagePath": "staticwebassets\\js\\backtotop\\angular-backtop.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\js\\backtotop\\angular-backtop.min.js",
+      "PackagePath": "staticwebassets\\js\\backtotop\\angular-backtop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\js\\grayscale.min.js",
+      "PackagePath": "staticwebassets\\js\\grayscale.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\pages\\anasayfa.html",
+      "PackagePath": "staticwebassets\\pages\\anasayfa.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\pages\\blog.html",
+      "PackagePath": "staticwebassets\\pages\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\font-awesome\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Güler ÇAĞIL\\Desktop\\Seyehat\\Net6.JWT\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Net6.JWT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Net6.JWT.props",
+      "PackagePath": "build\\Net6.JWT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Net6.JWT.props",
+      "PackagePath": "buildMultiTargeting\\Net6.JWT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Net6.JWT.props",
+      "PackagePath": "buildTransitive\\Net6.JWT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
